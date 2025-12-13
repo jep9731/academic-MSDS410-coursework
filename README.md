@@ -64,7 +64,8 @@ MSDS410/
 * Data visualization (matplotlib, seaborn)
 * Jupyter Notebooks
 * Git & GitHub for version control and reproducibility
-* (Some projects may also include R-based analyses, depending on the assignment.)
+
+(Some projects may also include R-based analyses, depending on the assignment.)
 
 ---
 
