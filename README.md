@@ -93,4 +93,4 @@ This repository is intended to:
 
 ## Contact Me
 
-If you have any questions or inquires, please reach out to [Joshua Pasaye](https://github.com/jep9731/)
+If you have any questions or inquires, please reach out to [Joshua Pasaye](https://github.com/jep9731/).
