@@ -53,11 +53,12 @@ Through the work in this repository, I demonstrate proficiency in:
 ## 📂 Repository Structure
 
 ```
-**MSDS410/
+MSDS410/
 │
+├── assignments/        # Weekly modeling assignments (9 total)
 ├── data/               # Public or simulated datasets
 ├── scripts/            # Reusable analysis and modeling code
-└── README.md           # Portfolio overview**
+└── README.md           # Portfolio overview
 ```
 
 ---
