@@ -1,18 +1,19 @@
 # MSDS410 – Statistics and Data Modeling for Supervised Learning
 
-This repository showcases selected coursework and projects from MSDS410, demonstrating **applied statistical modeling** and **supervised learning** skills.
+This repository showcases selected coursework and projects from **MSDS 410: Supervised Learning Methods**, demonstrating **applied statistical modeling**, **predictive analytics**, and **supervised learning skills**.
 
 ---
 
 ## 📌 Overview
 
-MSDS410 focuses on traditional statistics and data modeling techniques for **supervised learning problems** in observational and experimental research. The core objective is to build, evaluate, and interpret predictive models with clearly defined **explanatory** and **response** variables.
+MSDS 410 introduces traditional statistics and data modeling for supervised learning problems as employed in observational and experimental research. With supervised learning, there is a clear distinction between explanatory and response variables. The objective is to predict responses, whether they be quantitative (as with multiple regression) or categorical (as with logistic regression and multinomial logit models).
+Students explore data, identify appropriate models, and validate models using techniques for:
 
-This repository highlights practical applications of:
-
-* Predictive modeling for quantitative and categorical outcomes.
-* Statistical reasoning and research design.
-* Reproducible data analysis and clear communication of results.
+* Observational and experimental research design
+* Data visualization and exploratory data analysis
+* Variable transformation and feature engineering
+* Model diagnostics and assumption checking
+* Model selection and validation strategies
 
 ---
 
@@ -20,14 +21,19 @@ This repository highlights practical applications of:
 
 Through the work in this repository, I demonstrate proficiency in:
 
-* Exploratory Data Analysis (EDA) and data visualization.
-* Multiple linear regression for quantitative prediction.
-* Logistic and multinomial regression for classification problems.
-* Observational and experimental research design.
-* Variable transformation and feature engineering.
-* Model diagnostics and assumption checking.
-* Model selection and comparison.
-* Model validation and performance assessment.
+* **Exploratory Data Analysis (EDA)** and data visualization
+* **Multiple linear regression** for quantitative prediction
+* **Logistic regression** for binary classification
+* **Multinomial logit models** for multi-class classification
+* **Poisson and Negative Binomial regression** for count data
+* **Zero-Inflated regression models** for overdispersed count data
+* Observational and experimental **research design**
+* **Variable transformation** and feature engineering
+* **Model diagnostics** and assumption checking (residual analysis, multicollinearity, influential observations)
+* **Model selection** strategies (automated procedures and manual selection)
+* **Model validation** and performance assessment (ROC curves, cross-validation)
+* Analysis of Variance (**ANOVA**) and Analysis of Covariance (**ANCOVA**)
+* **Unequal slopes models** and interaction effects
 
 ---
 
@@ -47,37 +53,46 @@ Through the work in this repository, I demonstrate proficiency in:
 ## 📂 Repository Structure
 
 ```
-MSDS410/
+**MSDS410/
 │
-├── projects/           # End-to-end modeling projects
-├── notebooks/         # Jupyter notebooks with analysis and results
 ├── data/               # Public or simulated datasets
 ├── scripts/            # Reusable analysis and modeling code
-└── README.md           # Portfolio overview
+└── README.md           # Portfolio overview**
 ```
 
 ---
 
 ## 🛠 Tools & Technologies
 
-* Python (pandas, numpy, statsmodels, scikit-learn)
-* Data visualization (matplotlib, seaborn)
-* Jupyter Notebooks
-* Git & GitHub for version control and reproducibility
+**Primary Tools**
 
-(Some projects may also include R-based analyses, depending on the assignment.)
+* R (primary statistical computing environment)
+* RStudio for development and analysis
+* tidyverse for data manipulation (dplyr, ggplot2)
+* Base R statistical functions for modeling
+
+**Statistical Packages**
+
+* Multiple regression and diagnostics
+* Logistic and multinomial regression
+* Count models (Poisson, Negative Binomial)
+* Model validation and selection
 
 ---
 
 ## 📊 What to Look For
 
-Each project or notebook typically includes:
+Each assignment, project, or notebook typically includes:
 
-* Problem formulation and research context
-* Data exploration and preprocessing
-* Model development and justification
-* Diagnostic checks and validation
-* Interpretation of results and insights
+* **Problem Formulation** – Clear research question and context
+* **Exploratory Data Analysis** – Visual and statistical summaries
+* **Data Preprocessing** – Cleaning, transformation, and feature engineering
+* **Model Development** – Building and fitting appropriate statistical models
+* **Model Diagnostics** – Checking assumptions and identifying issues
+* **Model Selection** – Comparing alternatives and justifying final choice
+* **Validation** – Assessing predictive performance
+* **Interpretation** – Translating statistical output into meaningful insights
+* **Communication** – Clear presentation of findings and recommendations
 
 ---
 
@@ -85,9 +100,12 @@ Each project or notebook typically includes:
 
 This repository is intended to:
 
-* Demonstrate applied statistical modeling skills to employers and collaborators.
-* Serve as a reference for regression-based supervised learning workflows.
-* Highlight the ability to translate statistical output into meaningful conclusions.
+* **Demonstrate applied statistical modeling skills** to employers, collaborators, and peers
+ Serve as a **reference for regression-based supervised learning workflows**
+* Highlight the ability to **translate statistical output** into **actionable business insights**
+* Showcase **proficiency in R programming** for data analysis and modeling
+* Document **mastery of the statistical modeling** process from EDA through validation
+* Provide **reproducible examples** of best practices in statistical analysis
 
 ---
 
