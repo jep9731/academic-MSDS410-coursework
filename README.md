@@ -59,7 +59,7 @@ MSDS410/
 | | ├── Data/           # Datasets for weeking assignments
 | | ├── Report/         # Written report of results from assignments
 | | ├── Output/         # Visualizations/tables from modeling assignments
-| | └── Dictionaries/   # Available data dictionaries from public datasets
+| └── Documentation/    # Available data dictionaries from public datasets
 └── README.md           # Portfolio overview
 ```
 
