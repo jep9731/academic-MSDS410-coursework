@@ -55,8 +55,10 @@ Through the work in this repository, I demonstrate proficiency in:
 ```
 MSDS410/
 │
-├── assignments/        # Weekly modeling assignments (9 total)
-├── data/               # Public or simulated datasets
+├── Assignments/        # Weekly modeling assignments (9 total)
+| | ├── Data/           # Datasets for weeking assignments
+| | ├── Report/
+| | 
 └── README.md           # Portfolio overview
 ```
 
