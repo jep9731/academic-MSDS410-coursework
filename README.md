@@ -57,7 +57,7 @@ MSDS410/
 │
 ├── Assignments/        # Weekly modeling assignments (9 total)
 | | ├── Data/           # Datasets for weeking assignments
-| | ├── Report/         # Written report discussion results from assignments
+| | ├── Report/         # Written report of results from assignments
 | | └── Output/         # Visualizations/tables from modeling assignments
 └── README.md           # Portfolio overview
 ```
